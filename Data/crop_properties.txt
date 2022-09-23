@@ -1,0 +1,72 @@
+Crop	Variety	texture1	texture2	texture3	minpH	maxpH	minTemp	maxTemp	minPrep	maxPrep	minAlti	maxAlti
+Banana	Uganda Green (Cooking types)	LOAM	SANDY LOAM	Clay	5.5	6.5	20	31	1000	2500	0	2100
+Banana	Ngombe (Cooking types)	LOAM	SANDY LOAM	Clay	5.5	7.5	20	31	1000	2500	0	2100
+Mango	Apple	Loamy	Sandy loam	sandy	5	7.5	15	30	500	2000	0	2300
+Mango	Van Dyke	Loamy	Sandy loam	sandy	5	7.5	15	30	500	2000	0	2300
+Avocado	Hass	Loamy	Clay loam	Sandy	5	7	20	30	1000	1800	1200	2200
+Paw paw	Solo sunrise	Loamy	Clay loam	Sandy 	5.5	7	20	30	1000	2000	0	2100
+Paw paw	Dwarf	Loamy	Clay loam	Sandy 	5.5	7	20	30	1000	2000	0	2100
+Apples	Anna	Loamy	Clay loam	Sandy Loam	6	7	0	15	800	1100	1500	2800
+Grapes	Maroo	loam	Sandy loam	Sandy 	5.5	8	3	37	800	2000	0	1500
+Grapes	Red Globe	loam	Sandy loam	Sandy 	5.5	8	3	37	800	2000	0	1500
+Plums	Shiro	loamy	clay loam 	sandy loam	5.5	6.5	15	24	800	1000	1700	2600
+Loquat	California advance	Sandy Loam	Loam		5	8	20	35	1000	1200	1500	2400
+Mulberry	ex-limuru	Clay Loam	Loam		6.2	6.8	20	30	400	2000	0	1500
+Custard Apple	Hybrid	Sandy Loam	Loam	clay loam	5	8	13	25	500	1500	1400	1600
+Guava	White fleshed	Sandy Loam	Loam	clay loam	5.8	9.6	20	25	500	1000	1500	2500
+Guava	Red/pink fleshed	Sandy Loam	Loam	clay loam	5.8	9.6	20	25	500	1000	1500	2500
+Guava	Strawberry fleshed	Sandy Loam	Loam	clay loam	5.8	9.6	20	25	500	1000	1500	2500
+Lemons	Meyer	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	1000	1500
+Limes	Bears	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	0	1500
+Grape Fruit	Marsh Seedless' 	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	0	1500
+Sweet Oranges	Minneola 	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	0	1500
+Tangarine	Pixie	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	1000	1800
+Mandarins	Satsuma	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	0	1500
+Mandarins	Kara	loam	Sandy loam	Sandy 	5	6	13	30	800	2000	0	1500
+Peaches	Killiecrankie	Sandy Loam	Loam	Clay	6	6.5	6	8	800	1000	1200	2500
+Peaches	Texas	Sandy Loam	Loam	Clay	6	6.5	6	8	800	1000	1200	2500
+Pears	Jargonelle	Sandy Loam	Loam	Silty Loam	6	7	15	32	800	1500	2400	3000
+White Sapote	Blumenthal	Sandy Loam	Loam	Clay	5.5	7.5	-6	20	800	1500	600	2700
+White Sapote	White	Sandy Loam	Loam	Clay	5.5	7.5	-6	20	800	1500	600	2700
+Desert Date	Date Palm	Loamy	Sandy Clay	Clay	8	11	20	35	0	1200	0	1500
+Desert Date	Dwarf Palm	Loamy	Sandy Clay	Clay	8	11	20	35	0	1200	0	1500
+Desert Date	Canary Palm	Loamy	Sandy Clay	Clay	8	11	20	35	0	1200	0	1500
+Chocolate Berry	White	Sandy Loam	Loam	Clay Loam	6.1	7.8	14	34	500	1100	0	1600
+Chocolate Berry	Purple	Sandy Loam	Loam	Clay Loam	6.1	7.8	14	34	500	1100	0	1600
+Apricot	Plumcot Hybrid	Sandy Loam	Loam	Clay Loam	5.8	7	20	25	1200	1800	1000	1200
+Apricot	Goldcot	Sandy Loam	Loam	Clay Loam	5.8	7	20	25	1200	1800	1000	1200
+Jackfruit	Orange	Sandy Loam	Loam	Silty Loam	5	6.5	15	34	850	1500	0	1200
+Jackfruit	White	Sandy Loam	Loam	Silty Loam	5	6.5	15	34	850	1500	0	1200
+Jackfruit	Yellow	Sandy Loam	Loam	Silty Loam	5	6.5	15	34	850	1500	0	1200
+Macadamia	MRG-20	LOAM	SANDY LOAM	Clay	5	6.5	16	25	800	1200	1200	1500
+Macadamia	KRG-15	LOAM	SANDY LOAM	Clay	5	6.5	16	25	800	1200	1200	1500
+Macadamia	EMB-1	LOAM	SANDY LOAM	Clay	5	6.5	16	25	800	1200	1200	1500
+Macadamia	KMB-3	LOAM	SANDY LOAM	Clay	5	6.5	16	25	800	1200	1200	1500
+Cashew	variety A75/83	Sandy Loam	Loam	sandy	3.8	6.5	24	28	800	1600	0	1000
+Cashew	variety MT10	Sandy Loam	Loam	sandy	3.8	6.5	24	28	800	1600	0	1000
+Coconut	Hybrid (TallxDwarf)	SANDY LOAM	SANDY CLAY	LOAM	4	8	21	37	1000	2500	0	600
+Coconut	Dwarf Vareity	SANDY LOAM	SANDY CLAY	LOAM	4	8	21	37	1000	2500	0	600
+Coconut	EastAfrican Tall	SANDY LOAM	SANDY CLAY	LOAM	4	8	21	37	1000	2500	0	600
+Sisal	Banda	Loam	Sandy loam	Sandy Clay	4	8	10	40	500	1500	0	1800
+Sisal	H1300	Loam	Sandy loam	Sandy Clay	4	8	10	40	500	1500	0	1800
+Sisal	H11648	Loam	Sandy loam	Sandy Clay	4	8	10	40	500	1500	0	1800
+Palm Trees	Hybrid Deli X Ghana	Loam	Alluvial		4.5	6.5	22	27	800	1200	0	1000
+Tea	TRFK 597/1	Sandy Loam	Loam		4	5.6	13	30	1200	2200	1500	2250
+Coffee	K7	Loam	SANDY LOAM		5.3	6	15	30	1000	2000	610	1830
+Jatropha	Jatropha podagrica	Sandy Loam	Loam	Silty Loam	5.4	8.4	18	28	300	1500	300	1650
+Miraa	mogoka	Loam	SANDY LOAM		6	8.2	5	35	500	2400	1500	3000
+Cocoa	A1	Sandy Loam	Loam		5	7.5	15	39	1000	1500	0	1000
+pomegranate	Bhagwa Sindoor	Sandy Loam	Loam		6.5	7.5	20	38	800	1500	500	1750
+Cotton	  KSA 81 M 	Light sandy	sandy clay	Clay Loam	5.5	8.5	21	27	500	1500	0	1300
+Cotton	MAHYCO C 567 BT Gene 	Light sandy	sandy clay	Clay Loam	5.5	8.5	21	27	500	1500	0	1500
+Cotton	HART 89M	Light sandy	sandy clay	Clay Loam	5.5	8.5	21	27	500	1500	0	1500
+Sugarcane	KEN 00-5873	Loam	Clay loam	sandy	5	7	20	30	1000	1600	1100	1600
+Strawberry	Chandler	SANDY LOAM	LOAM	Sandy	5.5	6.5	10	30	1200	1500	1500	2200
+Strawberry	Tribute	SANDY LOAM	LOAM	Sandy	5.5	6.5	10	30	1200	1500	1500	2200
+Passion fruit	Giant (Yellow)	Loam	Clay loam	Sandy loam	5.5	6.5	25	30	900	2000	0	1500
+Cape Gooseberry	Ex- South African	loam	Sandy loam	Sandy 	5.5	6.5	7	28	600	1200	0	1500
+Cape Gooseberry	Ex- Peru	loam	Sandy loam	Sandy 	5.5	6.5	7	28	600	1200	0	1500
+Cape Gooseberry	Ex-Columbian (Netherlands)	loam	Sandy loam	Sandy 	5.5	6.5	7	28	600	1200	0	1500
+Pineapples	MD2	Sandy loam	Sandy Clay	Clay	4	5	18	40	800	1100	0	1800
+Pineapples	Sweet 16	Sandy loam	Sandy Clay	Clay	4	5	18	40	800	1100	0	1800
+Pineapples	smooth cayenne	Sandy loam	Sandy Clay	Clay	4	5	18	40	800	1500	1	1800
